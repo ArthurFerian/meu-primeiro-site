@@ -1,0 +1,19 @@
+/* reset do css*/
+* {
+    margin: 0px;
+    padding: 0;
+}
+
+body {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, p {
+    text-align: center;
+}
+
+header {
+    background-color: rgba(3, 119, 196, 0.836);
+    color: white;
+    padding: 73px
+}
